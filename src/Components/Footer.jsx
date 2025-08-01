@@ -7,9 +7,9 @@ const Footer = () => {
     { name: "Email", link: "mailto:baligausha@gmail.com", icon: "" },
   ];
   return (
-    <div className="flex flex-col justify-center items-center p-4">
+    <div className="flex flex-col justify-center items-center p-4 mt-auto">
       <div className="text-2xl font-extrabold tracking-[-0.075em]">
-        Usha Baliga
+        UB Arthouse
       </div>
       <div className="flex gap-4">
         {socials.map((social, index) => (

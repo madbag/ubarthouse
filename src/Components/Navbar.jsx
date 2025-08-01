@@ -11,9 +11,9 @@ const Navbar = () => {
       <div className="flex flex-col md:flex-row items-center gap-4 justify-center p-4">
         <div className="">Home</div>
         <div className="">My Store</div>
-        <div className="">About Me</div>
         <div className="">Pop Ups</div>
-        <div className="">Travels</div>
+        <div className="">About Me</div>
+    
       </div>
 
       <div className="">Contact</div>
