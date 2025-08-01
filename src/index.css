@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#root {
+  background-color: white;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", "Inter", sans-serif, "Roboto", "Helvetica Neue", Arial,
+    sans-serif;
+}
